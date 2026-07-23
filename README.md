@@ -1,5 +1,5 @@
 # Hi there, I'm Letha! 👋
-## 🌸 About Me
+## 💮 About Me
 I am a second-year **Electronics and Computer Engineering** student at the **Zhejiang University-University of Illinois Urbana-Champaign Institute (ZJUI)**. I am passionate about backend engineering, distributed systems, embedded systems, and AI. 
 
 - **Education**: B.Eng. in Electronic and Computer Engineering (2025–2029)
