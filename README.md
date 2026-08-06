@@ -47,7 +47,14 @@ I am a second-year **Electronics and Computer Engineering** student at the **Zhe
 ### Embedded & Digital Systems
 <p align="left">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/RISC--
+  <img src="https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white" />
+</p>
+
+### Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/lethania-davidson-929206211)
