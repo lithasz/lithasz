@@ -184,17 +184,6 @@ current_focus:
 ```
 
 ---
-<!-- ============================= CONTRIBUTION ACTIVITY ============================= -->
-## Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lithasz&bg_color=13294b&color=ff5f05&line=ff7a33&point=ffffff&area=true&hide_border=true" alt="activity-graph" />
-
-</div>
-
----
-
 <!-- ============================= CONNECT ============================= -->
 ## Connect
 
