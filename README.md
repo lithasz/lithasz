@@ -59,8 +59,6 @@ I'm an **Electronic & Computer Engineering** student at **ZJUI (Zhejiang Univers
 **Hardware & Embedded**
 
 ![Verilog](https://img.shields.io/badge/Verilog-c24700?style=flat-square&logoColor=white&labelColor=13294b)
-![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=flat-square&logo=riscv&logoColor=white&labelColor=13294b)
-![FPGA](https://img.shields.io/badge/FPGA-ff5f05?style=flat-square&labelColor=13294b)
 ![ESP32](https://img.shields.io/badge/ESP32-ff7a33?style=flat-square&logo=espressif&logoColor=white&labelColor=13294b)
 
 **Tooling**
