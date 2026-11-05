@@ -35,10 +35,9 @@ I'm an **Electronic & Computer Engineering** student at **ZJUI (Zhejiang Univers
 
 - **AI / ML Engineering** — LLM-based extraction, retrieval-augmented pipelines, multilingual NLP, and multimodal (image/PDF/audio/video) processing.
 - **Backend Engineering** — event-driven systems, message queues, vector databases, and observability.
-- **Hardware & Embedded** — digital logic, FSM design, RISC-V, FPGA, and microcontroller projects.
-- **Product Mindset** — I care about reliability, iteration speed, and shipping things that hold up under real traffic.
+- **Hardware & Embedded** — digital logic, FSM design, and microcontroller projects.
 
-> **Open To:** AI/ML & software engineering internships · backend / FDE roles · research collaborations · open-source contributions
+> **Open To:** AI/ML & software engineering internships · backend roles · research collaborations · open-source contributions
 
 ---
 
