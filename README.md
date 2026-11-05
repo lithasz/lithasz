@@ -31,7 +31,7 @@
 <!-- ============================= ABOUT ============================= -->
 ## About
 
-I'm an **Electronic & Computer Engineering** student at **ZJUI (Zhejiang University–UIUC Joint Institute)** who works across the full stack, from **RISC-V, FPGA, and embedded systems** up through **backend engineering and applied AI/ML pipelines**. I like taking ambiguous, real-world problems and turning them into systems that actually run in production.
+I'm an **Electronic & Computer Engineering** student at **ZJUI (Zhejiang University–UIUC Joint Institute)** who works across the full stack, from **embedded systems** up through **backend engineering and applied AI/ML pipelines**. I like taking ambiguous, real-world problems and turning them into systems that actually run in production.
 
 - **AI / ML Engineering** — LLM-based extraction, retrieval-augmented pipelines, multilingual NLP, and multimodal (image/PDF/audio/video) processing.
 - **Backend Engineering** — event-driven systems, message queues, vector databases, and observability.
